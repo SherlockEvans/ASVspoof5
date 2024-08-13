@@ -1,7 +1,12 @@
 """
-
+SEMAA model
+Weijiang Xia, BUPT
 """
-
+"""
+AASIST
+Copyright (c) 2021-present NAVER Corp.
+MIT license
+"""
 import random
 from typing import Union
 from utils import create_optimizer, seed_worker, set_seed, str_to_bool
@@ -13,9 +18,8 @@ from torch import Tensor
 import fairseq
 # from torchstat import stat
 from thop import profile
-import time
 
-# from main import get_model
+
 import json
 import torch.nn.init as init
 from torch.autograd import Function

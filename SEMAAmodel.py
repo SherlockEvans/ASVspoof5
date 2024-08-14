@@ -1,6 +1,6 @@
 """
 SEMAA model
-Weijiang Xia, BUPT
+Weijiang Xia, BUPT， Beijing
 """
 """
 AASIST

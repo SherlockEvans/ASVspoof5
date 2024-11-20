@@ -1,1 +1,1 @@
-When using this network model, simply replace the network model in AASIST（ https://github.com/asvspoof-challenge/asvspoof5）.
+When using this network model, replace the network model in AASIST（cite： https://github.com/asvspoof-challenge/asvspoof5）.
